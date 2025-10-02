@@ -1,2 +1,3 @@
 # gani-demo
-this is my first repo
+this is my first repo.
+ganesh d a
